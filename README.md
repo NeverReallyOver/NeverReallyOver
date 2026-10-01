@@ -58,6 +58,6 @@ real-time stock trading, and I'm open to full-time Flutter / mobile roles.
   - Native Kotlin call-log and recording services
   - Background sync with WorkManager
   - Offline queue backed by Drift/SQLite
-- **eKYC: digital account opening.** I'm the top contributor to the Flutter
-  onboarding flow: OTP, PAN, DigiLocker, bank verification, nominee, selfie,
-  signature and eSign.
+- **eKYC: digital account opening.** Built Flutter onboarding screens:
+  mobile/email OTP, PAN, nominee validation, trading preferences and UPI bank
+  verification on iOS.
